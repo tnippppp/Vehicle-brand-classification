@@ -5,7 +5,7 @@
 <b>Accuracy is 24% </b><p>
 -  Issuse : Frame is over object and size frame is not correct.!! <p>
 <u>Preview result <p></u>
-  
+  ![image](https://github.com/tnippppp/Vehicle-classification/blob/main/Result.jpg)
 
 
 
